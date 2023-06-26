@@ -1,2 +1,2 @@
-# Classifying-Clinical-Text-
-Classify medical transcriptions by subspecialty of medicine
+# Classifying-Clinical-Text
+Classify medical transcription by subspecialty of medicine
